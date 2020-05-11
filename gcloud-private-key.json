@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fir-project-maro",
+  "private_key_id": "cc6478f239038896679f252c00930770213def8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCUyArT/cC6F9+\nDqdV4kBirLkux+U7+ea6uhkw85toMl3tbzD/ja6H+K/XTq66ToDHAdPVtiAMBdC/\nFkYy6X92YW6HKdKBN+5dlUMZb1Cgw/IXjFWxs0SYoExr7VNfNR5u5j155SlcJ8Qx\nxOsOyYhDAm9o1c2E05lOtXNwXbKo1vKTATbIGjGur6tEHW3FUue5NjlJyKe1cA0n\n7ykHOJa6F9msHunGrQBazPswmr04RGS0aNIsH4rg8t+DykzQctjqm5W/VJf/mKKT\n3QDCUkAOd8e5iLG+EmUMuvj+obNvxbJMv8it0qGazoed+z7saUWIi+f23h9QNtuV\nRgq7kEyVAgMBAAECggEAALvRrU6WA+0YVmbeOmaugzdCmCAwFJva9pYdfAh2WvpB\nK6nAcNcYIjrSKyLEaenbwzWm21Peq3AmlS1PUYo5JPDGXTicCPN1m8NPRWCt6Yzw\no1nJ69Z3Q7we7s9h8MQdRneUZtbZBTpq8Ng6yLITOdw1MYpM11/oNcUqNXHDhJ3/\nkq2muZIxnEiNBUujm/uXnKidlFvzsD97hbBvxpHvPjrVUa5Ca9BtSNN5/O6KEh2d\nWebz0qXpVd9lskApB1k1n8RdUvG3PdFD5U3HMo5Ef8yjCbtFGw/kZf1Rqi9yLp00\nKQYZLBNHIUVmjDMWrA4kfgsq4v4iui1qgjfZNom85wKBgQD9S9wZeTjIyoJaFVW3\na5PcZ96XOv59TjnSAXzm1vgFX/lW8scXMPz0yolj0EM+7BIuQWgjHTNsu6Qsgwrn\neXZorca5fessn76JoOYLSQg6yW5ILnSWMgh8bdts8n+gYjSdEKRjdTIxpZ6enamg\nmRp/IITEt8yw5EZ+Azgud+zvBwKBgQDEZh/D/0OmIUtRIoJ9u+4o0h/T0JOOqH32\nERJ9J7BT7q5OmVxoUmM1aTIXdDZzpzBieOVyiEhR0wVpQPlAq66g9UgpOOvUxJ4B\nvJIU9dMnlZjKCMbi4rUt9Y563kDwm1vuECTZXhjleYSpKjfRFH2ylyUKmDHl1od4\nH/rKhGMkgwKBgQCYDuVXyYUETUYJrEsj7In8Q8LFyN2j/cUKRGhl7+E+4Mm/n8lT\nK85/aeMmr4zfBjs3134brlkDynWZXyW5phomZ0QocOYwiMmKt7PCTJqLKAdzf6fv\nzqN3hz+13LIvZyUssSPurRlv4nwhvoZpaeAVN0FdEvXnr3J+DZK5mrb7GwKBgCz4\n8acw6a2+DAAdNeJSyVthmlYnedJ99LIHAMPV9cOScSmgZo+g5gTR/N1wCBP9oc+6\nvVe3q0/JUYDjlu/fIFLNN+Pwm9gR2dit9ImGLP7we5cv4VMM9M38X87028v811Ux\nLy7zJCJP7DfMahGfbpUZlSrS5QIrWMQCFqyPGiC/AoGBAIPck4ofUp/+d7O+83E3\noSL3blQscb/jjiQP1IvdNcPJ7UO7O8oPPy4PZquUz7OHE0knCx7XKu7L04MsdX0E\n5syEQuTe4ZkEP82dhRowV7Ul/tNzta/JmePmI8D+WyIDg+zyMvNWj+mqCMgcqRxp\n+Y1WYgjD639RxUZV0l+bnlmh\n-----END PRIVATE KEY-----\n",
+  "client_email": "fir-project-maro@appspot.gserviceaccount.com",
+  "client_id": "102637305483620915422",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fir-project-maro%40appspot.gserviceaccount.com"
+}

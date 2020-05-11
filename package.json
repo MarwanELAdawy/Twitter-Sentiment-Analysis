@@ -1,0 +1,24 @@
+{
+  "name": "twittersentimentanalysistool",
+  "version": "1.0.0",
+  "description": "The idea is that you enter a search term and the tool will search recent tweets. It will then use sentiment analysis to determine how positive or negative Twitter is about the subject.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarwanELAdawy/Twitter-Sentiment-Analysis.git"
+  },
+  "author": "Marwan EL-Adawy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarwanELAdawy/Twitter-Sentiment-Analysis/issues"
+  },
+  "homepage": "https://github.com/MarwanELAdawy/Twitter-Sentiment-Analysis#readme",
+  "dependencies": {
+    "@google-cloud/language": "^4.0.0",
+    "twitter-lite": "^0.11.0"
+  }
+}
